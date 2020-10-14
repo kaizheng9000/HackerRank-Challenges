@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace TestingArea
 {
-    public class Class1
+    public class Testing
     {
         public void Main()
         {

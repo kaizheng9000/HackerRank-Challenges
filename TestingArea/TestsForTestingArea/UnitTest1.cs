@@ -10,9 +10,9 @@ namespace TestsForTestingArea
         [TestMethod]
         public void TestMethod1()
         {
-            Class1 t = new Class1();
+            Testing t = new Testing();
 
-            Assert.IsTrue(t.match("0x123FB"));
+            
         }
     }
 }
